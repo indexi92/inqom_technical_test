@@ -17,4 +17,3 @@ Pour lancer les tests, exécutez la commande suivante :
 ``` npx playwright test ```
 
 ---
-# inqom_technical_test
